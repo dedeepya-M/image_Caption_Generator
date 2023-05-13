@@ -23,4 +23,8 @@ or install requirement as follows:
 The image caption generator is based on the ViT-GPT2-COCO-EN model from Hugging Face. 
 This model is a combination of the Vision Transformer (ViT) and Generative Pre-trained Transformer 2 (GPT-2) architectures, and has been trained on the COCO dataset for image captioning.
 
+## prediction
+<img width="957" alt="image" src="https://github.com/dedeepya-M/image_Caption_Generator/assets/83818024/c63f5740-6647-41d4-9060-bead2e4e89d4">
+<img width="878" alt="image" src="https://github.com/dedeepya-M/image_Caption_Generator/assets/83818024/5882f9fd-d001-4f1f-9391-6b7e54ea909d">
+
 
