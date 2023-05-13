@@ -1,7 +1,7 @@
 # image_Caption_Generator
 
 This is a simple interactive web application built with Streamlit that generates captions for uploaded images. 
-The model used is a pre-trained ViT-GPT2-COCO-EN architecture, which combines the ViT (Vision Transformer) and GPT-2 (Generative Pre-trained Transformer 2) architectures.
+The model used is a pre-trained ViT-GPT2-COCO-EN architecture, which combines the ViT (Vision Transformer) and GPT-2 (Generative Pre-trained Transformer  architectures.
 
 ## Getting Started
 
